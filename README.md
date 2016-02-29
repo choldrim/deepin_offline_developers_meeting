@@ -1,10 +1,9 @@
 因为这个项目的分享是当场演示，没有ppt，所以就直接上传一些截图吧
-![reviews](https://raw.githubusercontent.com/choldrim/deepin_offline_developers_meeting/master/images/reviews.png)
-![details.png](https://raw.githubusercontent.com/choldrim/deepin_offline_developers_meeting/master/images/details.png)
+![create_new.png](https://raw.githubusercontent.com/choldrim/deepin_offline_developers_meeting/master/images/create_new.png)
 ![client.png](https://raw.githubusercontent.com/choldrim/deepin_offline_developers_meeting/master/images/client.png)
 ![client_submit_report.png](https://github.com/choldrim/deepin_offline_developers_meeting/images/)
-![client_submit_report.png](https://raw.githubusercontent.com/choldrim/deepin_offline_developers_meeting/master/images/client_submit_report.png)
-![create_new.png](https://raw.githubusercontent.com/choldrim/deepin_offline_developers_meeting/master/images/create_new.png)
+![reviews](https://raw.githubusercontent.com/choldrim/deepin_offline_developers_meeting/master/images/reviews.png)
+![details.png](https://raw.githubusercontent.com/choldrim/deepin_offline_developers_meeting/master/images/details.png)
 
 ### 名词说明：
 #### **base仓库：**将要合并进入的基础仓库，如：deepin仓库
